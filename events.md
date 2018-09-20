@@ -6,6 +6,9 @@ sitemap: yes
 excerpt: 나의 프로필
 tags: [events]
 ---
+# 건국대학교 응용통계학과 & 컴퓨터공학과  (2015. 3 ~ 현재)
+
+# 한국과학기술연구원(KIST) 학부연구생  (2018. 7 ~ 현재)
 
 # [투빅스 동아리 활동](http://www.datamarket.kr/xe/)
 
