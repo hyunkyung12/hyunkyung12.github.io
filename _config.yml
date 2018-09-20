@@ -1,13 +1,13 @@
-title: kakao 기술 블로그
-email: opensource@kakaocorp.com
+title: 현경이의 삽질기록
+email: khc0275@naver.com
 description: |
-  Connect Everything 새로운 연결, 새로운 세상.
-  연결의 혁신으로 세상은 더욱 가깝고 새로워진다고 카카오는 믿습니다.
+  멋사 2년 투빅스 1년 프로젝트 2번,
+  이제 정리할때가 된 것 같다.
 baseurl: ''
-url: 'http://tech.kakao.com'
+url: 'http://hyunkyung12.github.io'
 timezone: Asia/Seoul 
 
-repository: kakao/kakao.github.io
+repository: hyunkyung12/hyunkyung12.github.io
 
 permalink: /:year/:month/:day/:title/
 
@@ -50,7 +50,7 @@ exclude: [README.md, Gemfile, Gemfile.lock]
 keep_files: [assets, files]
 github: [metadata]
 # iolo's custom
-author: opensource@kakaocorp.com
+author: khc0275@naver.com
 image: '/assets/images/default_blog_cover.jpg'
 asset_url: /assets
 #asset_url: //meta-kage.kakaocdn.net/dn/osa/blog/assets
