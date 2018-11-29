@@ -925,9 +925,12 @@ body.tag-template #navbar {
 }
 
 #post-content figure img {
-    width: 100%;
+    width: 70%;
     border: 1px solid #e6e6e6;
     cursor: pointer;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }
 
 #post-content figure figcaption {
