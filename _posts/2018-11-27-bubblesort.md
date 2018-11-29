@@ -3,7 +3,7 @@ layout: post
 title: '[Sorting #1] Bubble Sort'
 author: hyunkyung
 date: 2018-11-27 11:30
-tags: [algorithm]
+tags: [algorithm, sorting]
 image: 
 ---
 

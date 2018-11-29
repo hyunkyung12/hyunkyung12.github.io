@@ -3,7 +3,7 @@ layout: post
 title: '[Sorting #2] Selection Sort'
 author: hyunkyung
 date: 2018-11-27 13:40
-tags: [algorithm]
+tags: [algorithm, sorting]
 image: 
 ---
 

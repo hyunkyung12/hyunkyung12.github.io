@@ -3,7 +3,7 @@ layout: post
 title: '[Sorting #3] Insertion Sort'
 author: hyunkyung
 date: 2018-11-27 15:00
-tags: [algorithm]
+tags: [algorithm, sorting]
 image: 
 ---
 
