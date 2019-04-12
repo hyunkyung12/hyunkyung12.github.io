@@ -1,12 +1,3 @@
----
-layout: post
-title: '[최신 정보검색론] 정보검색평가'
-author: hyunkyung
-date: 2019-04-12 13:50
-tags: [machine_learning, search_engine]
-image: 
----
-
 # Chapter 8 정보 검색 평가
 
 > 이 글은 [최신 정보검색론](<https://nlp.stanford.edu/IR-book/pdf/irbookonlinereading.pdf>) 을 읽고 정리 한 내용입니다.
@@ -44,9 +35,9 @@ image:
 
 #### 2) F-Score
 
-F-Score 는 **Precision과 Recall 을 적절히 고려**해 사용하는 지표입니다. Precision 과 Recall 의 조화 평균을 사용합니다.  조화 평균을 사용함으로써 Precision 과 Recall 의 크기의 불균형을 조절할 수 있습니다.
+F-Score 는 Precision과 Recall 을 적절히 고려해 사용하는 지표입니다. Precision 과 Recall 의 조화 평균을 사용합니다.  조화 평균을 사용함으로써 Precision 과 Recall 의 크기의 불균형을 조절할 수 있습니다.
 
-$ F = \frac{ (\beta^2 + 1) P R}{\beta^2P + R}$ 식에서 $ \beta $ 는 그 불균형을 얼마나 조절할까에 대한 파라미터 입니다. 보통은 $ \beta = 1 $ , 즉 P와 R에 동일한 가중치를 주는 값을 많이 쓰고, 이것을 **F1-Score** 라고 부릅니다.  
+$ F = \frac{ (\beta^2 + 1) P R}{\beta^2P + R}$ 식에서 $ \beta $ 는 그 불균형을 얼마나 조절할까에 대한 파라미터 입니다. 보통은 $ \beta = 1 $ , 즉 P와 R에 동일한 가중치를 주는 값을 많이 쓰고, 이것을 F1-Score 라고 부릅니다.  
 
 
 
