@@ -1,9 +1,9 @@
 ---
 layout: post
-title: '[딥러닝 모델을 사용해 서버 배포하기 #1] 어떤 모델을 사용할까'
+title: '[딥러닝 모델을 사용한 서버 배포하기 #1] 어떤 모델을 사용할까'
 author: hyunkyung
 date: 2019-09-11 11:20
-tags: [deep-learning]
+tags: [deep_learning]
 image: 
 ---
 
